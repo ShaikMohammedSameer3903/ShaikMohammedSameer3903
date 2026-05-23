@@ -57,6 +57,7 @@ I am a B.Tech Computer Science & Engineering (Honours) student (CGPA: 9.24/10) a
 |:---|:---|:---|
 | 🚖 **ApnaRide** | **Enterprise Ride-Sharing Platform:** Implemented multi-role RBAC and real-time GPS tracking. Architected the cloud deployment utilizing **AWS EC2** for computing, **S3** for asset storage, **VPC** for network isolation, and **IAM** for secure access policies. | React 19, Spring Boot 3.2, AWS (EC2, S3, IAM, VPC), Docker |
 | ⚡ **PipeLinePro** | **AI-Powered DevOps Engine:** Developed an automated CI/CD pipeline generator. Engineered a simulation engine to monitor execution logs and hosted the production build on cloud infrastructure. | React, Node.js, Supabase, OpenAI API |
+| 🌾 **FARMER-CROPMASTER** | **Smart Agriculture Platform:** Built and deployed an optimized distribution network platform emphasizing low-bandwidth performance and robust backend routing. | MongoDB, Express.js, React, Node.js |
 | 💼 **Global Portfolio** | **Cloud Edge Deployment:** Engineered a highly responsive digital portfolio with a custom top-level domain (`mdsameer.live`), optimized for zero-latency content delivery. | React.js, Tailwind CSS, Cloud Hosting |
 
 </div>
