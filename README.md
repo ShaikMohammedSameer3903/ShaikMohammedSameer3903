@@ -1,103 +1,184 @@
-<h1 align="center">Hi 👋, I'm Shaik Mohammed Sameer</h1>
-<h3 align="center">💻 CSE Student | Full Stack Developer | AI Enthusiast 🚀</h3>
+<div align="center">
+
+# 🚀 Shaik Mohammed Sameer
+
+### Full Stack Developer • DevOps Engineer • AI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Full+Stack+Applications;DevOps+%7C+Cloud+%7C+AI+Engineer;React+%2B+Spring+Boot+Developer;AWS+Certified+Developer;Always+Learning+New+Technologies+🚀" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShaikMohammedSameer3903&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ShaikMohammedSameer3903&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 </p>
 
----
-
-# 🚀 About Me
-
-- 🎓 CSE Student at KL University
-- 💻 Passionate Full Stack Developer
-- 🤖 Interested in AI, Machine Learning & Cloud
-- 🌱 Currently Learning DevOps & Azure Cloud
-- ⚡ Love Building Real-World Projects
-- 📚 Constantly Improving DSA & Problem Solving Skills
+</div>
 
 ---
 
-# 🛠 Tech Stack
+# 👨‍💻 About Me
 
-## 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+```yaml
+name: Shaik Mohammed Sameer
+located_in: Vijayawada, India
+education: B.Tech CSE @ KL University
+current_focus:
+  [
+    "Full Stack Development",
+    "Cloud & DevOps",
+    "AI Applications",
+    "System Design"
+  ]
+career_objective: "Building scalable real-world engineering solutions"
+```
 
 ---
+
+# ⚡ Tech Arsenal
+
+<div align="center">
+
+## 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,c,js,html,css" />
 
 ## 🌐 Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-
----
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 
 ## ⚙ Backend
-![SpringBoot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
 
----
+## ☁ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github,linux" />
 
 ## 🗄 Database
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+## 🛠 Tools
+<img src="https://skillicons.dev/icons?i=vscode,postman" />
+
+</div>
 
 ---
 
-## ☁ Cloud & Tools
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+# 🚀 Featured Projects
+
+## 🚖 ApnaRide — Ride Sharing Platform
+
+> Full-stack ride sharing application using React 19 + Spring Boot 3
+
+### ✨ Features
+- JWT Authentication & RBAC
+- GPS Tracking using OpenStreetMap
+- Driver Approval System
+- Admin Analytics Dashboard
+- Docker Deployment + AWS Hosting
 
 ---
 
-# 📊 GitHub Stats
+## ⚡ PipeLinePro — AI CI/CD Pipeline Builder
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaikMohammedSameer3903&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
+> AI-powered CI/CD generator for GitHub Actions, AWS & Jenkins
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikMohammedSameer3903&theme=tokyonight" alt="streak" />
-</p>
+### 🔥 Features
+- AI-generated DevOps Pipelines
+- Execution Simulation Engine
+- Performance Analytics
+- OpenAI + HuggingFace Integration
+- Production Deployment on Render
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikMohammedSameer3903&layout=compact&theme=tokyonight" alt="top langs" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShaikMohammedSameer3903&theme=onedark" />
-</p>
+🌐 Live: https://pipeline-pro.tech
 
 ---
 
-# 🔥 Featured Projects
+## 🌐 Personal Portfolio
 
-- 🚚 BiteFlow - Food Delivery Platform
-- 🌾 FARMER-CROPMASTER
-- 💼 Portfolio Website
-- 🤖 AI & ML Based Projects
-- ☁ Cloud & DevOps Learning Projects
+> Modern responsive portfolio website
+
+### Features
+- React.js Frontend
+- Optimized Rendering
+- Interactive UI
+- Custom Domain Integration
+
+🌐 Website: https://mdsameer.live
 
 ---
 
-# 📫 Connect With Me
+# 🏆 Certifications
 
-<p align="left">
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
+<div align="center">
+
+| Certification | Status |
+|---|---|
+| AWS Certified Developer Associate | ✅ |
+| AWS Solutions Architect Associate | ✅ |
+| AWS Cloud Practitioner | ✅ |
+| OCI Developer Professional | ✅ |
+| Salesforce AI Associate | ✅ |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShaikMohammedSameer3903&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikMohammedSameer3903&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikMohammedSameer3903&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 🧠 Competitive Programming & DSA
+
+```diff
++ Solving Real World Engineering Problems
++ Practicing Data Structures & Algorithms
++ Improving System Design Skills
++ Exploring AI + DevOps Integrations
+```
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/ShaikMohammedSameer3903">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
 </a>
-</p>
+
+<a href="https://linkedin.com/in/shaik-mohammed-sameer-6802bb2a0">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://mdsameer.live">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="mailto:shaiksameer3909sam@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/ShaikMohammedSameer3903/ShaikMohammedSameer3903/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ “Code. Build. Deploy. Repeat.” ⭐
+
+</div>
